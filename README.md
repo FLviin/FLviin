@@ -25,8 +25,8 @@
 ### SOCIAL ✔
     
 <div>
-    <a href="https://www.linkedin.com/in/flavio-go/" target="_blank" alt="Linkedin"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://github.com/FLviin" target="_blank" alt="GitHub"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/flavio-go/"target="_blank"alt="Linkedin"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://github.com/FLviin"target="_blank"alt="GitHub"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
     <img align="right" alt="" height="98" width="130" src="https://cdn.discordapp.com/attachments/865333937391927338/896781032215412746/Tutorial.gif">
 </div>
     
