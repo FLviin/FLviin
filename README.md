@@ -1,6 +1,6 @@
 ### Hello, It's a Me, FLavio !! 🎧✨
 
-- 🎓 Análise e Desenvolvimento de Sistemas | Fatec Guaratinguetá - (3/6)
+- 🎓 Análise e Desenvolvimento de Sistemas | FATEC Guaratinguetá - (3/6)
 - 🎓 Técnico em Eletromecânica | ETEC Guaratinguetá - Concluido
 - 📜 Estudando tudo o que o tempo me Permite.
 ##
