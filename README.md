@@ -3,7 +3,7 @@
 - 🎓 Análise e Desenvolvimento de Sistemas | Fatec Guaratinguetá
 - 📜 Estudando tudo o que o tempo me Permite.
 ##
-<div>
+<div style="display: inline_block">
     <a href="https://github.com/FLviin">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FLviin&show_icons=true&theme=gotham&https://github.com/FLviin/github-readme-stats)">
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FLviin&layout=compact&theme=gotham&https://github.com/FLviin/github-readme-stats)">
