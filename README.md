@@ -6,8 +6,7 @@
 ##
 <div style="display: inline_block">
     <a href="https://github.com/FLviin">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FLviin&show_icons=true&theme=gotham&https://github.com/FLviin/github-readme-stats)">
-     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FLviin&layout=compact&theme=gotham&https://github.com/FLviin/github-readme-stats)">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FLviin&layout=compact&theme=gotham&https://github.com/FLviin/github-readme-stats)">
 </div>
     
 ##
